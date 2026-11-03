@@ -45,5 +45,5 @@ npm run typecheck
 
 ## Related Projects
 
-- **[Frontend Project](https://github.com/dvoron/frontend)** - The Vue.js user interface.
-- **[Backend Project](https://github.com/dvoron/backend)** - The Spring Boot backend service.
+- **[Frontend Project](https://github.com/dvoron/ForumProjectFrontend)** - The Vue.js user interface.
+- **[Backend Project](https://github.com/dvoron/ForumProjectBackend)** - The Spring Boot backend service.
